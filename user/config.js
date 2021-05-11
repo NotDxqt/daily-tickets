@@ -83,7 +83,7 @@ module.exports = {
 
 	transcripts: {
 		text: {
-			enabled: false,
+			enabled: true,
 			keep_for: 90,
 		},
 		web: {
