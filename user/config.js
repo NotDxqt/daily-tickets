@@ -58,7 +58,7 @@ module.exports = {
 		A member of staff will assist you shortly.
 		In the mean time, please describe your issue in as much detail as possible! :)`,
 		pin: false,
-		max: 3,
+		max: 1,
 		default_topic: {
 			command: 'Daily Drops Support',
 			panel: 'Created via panel'
@@ -83,7 +83,7 @@ module.exports = {
 
 	transcripts: {
 		text: {
-			enabled: true,
+			enabled: false,
 			keep_for: 90,
 		},
 		web: {
