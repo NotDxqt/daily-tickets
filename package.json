@@ -33,9 +33,6 @@
 		"start": "node src/",
 		"test": "echo \"Nothing to test! Run with 'npm start'\" && exit 1"
 	},
-	"engines": {
-		"node": ">=12"
-	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/eartharoid/DiscordTickets.git"
