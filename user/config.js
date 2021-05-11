@@ -61,7 +61,7 @@ module.exports = {
 		max: 1,
 		default_topic: {
 			command: 'Daily Drops Support',
-			panel: 'Created via panel'
+			panel: 'Daily Drops Support'
 		}
 	},
 
